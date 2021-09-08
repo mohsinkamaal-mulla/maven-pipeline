@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Hello from Jenkins Pipeline!";
+    private final String message = "Hello from Jenkins Pipeline-Automate!";
 
     public App() {}
 
